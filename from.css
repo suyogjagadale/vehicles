@@ -1,0 +1,115 @@
+body {
+   background-image: url('sd1.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  font-family: "Roboto", sans-serif;
+}
+.navbar{ 
+       border-radius: 30px;
+         }
+.navbar ul{
+          overflow: auto;
+            }        
+.navbar li{
+
+  float: left;
+    list-style: none;
+   margin: 15px 10px;
+    }
+.navbar a:{
+  padding:3px 3px;
+  text-decoration: none;
+  color: white;
+}
+.buttons li a{
+  color: white;
+  text-decoration: none;
+  font-size: 24px;
+}
+.button_nav{
+  color: white;
+  text-decoration: none;
+  font-size: 24px;
+}
+.search{
+  float:right;
+  color: white;
+  padding: 12px 12px;
+}
+.navbar input{
+  border-radius:14px;
+    border: 3px solid black;
+    padding: 5px 5px.
+}
+.signup-box {
+  width: 360px;
+  height: 400px;
+  margin: auto;
+  background-color: skyblue;
+  border-radius: 3px;
+}
+
+.login-box {
+  width: 360px;
+  height: 280px;
+  margin: auto;
+  border-radius: 3px;
+  background-color: white;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 15px;
+}
+
+h4 {
+  text-align: center;
+}
+
+form {
+  width: 300px;
+  margin-left: 20px;
+}
+
+form label {
+  display: flex;
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+form input {
+  width: 100%;
+  padding: 7px;
+  border: none;
+  border: 1px solid gray;
+  border-radius: 6px;
+  outline: none;
+}
+input[type="button"] {
+  width: 320px;
+  height: 35px;
+  margin-top: 20px;
+  border: none;
+  background-color: #49c1a2;
+  color: white;
+  font-size: 18px;
+}
+p {
+  text-align: center;
+  padding-top: 20px;
+  font-size: 15px;
+}
+.para-2 {
+  text-align: center;
+  color: white;
+  font-size: 15px;
+  margin-top: -10px;
+}
+.para-2 a {
+  color: #49c1a2;
+}
+.btn{
+  background-color: rgb(76, 76, 225);
+  margin: 20px;
+}
